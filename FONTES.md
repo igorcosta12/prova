@@ -14,13 +14,7 @@
 > texto corrido — inclusive o exemplo logo abaixo — **não são contados**
 > como fonte declarada.
 
-| # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
-
-*(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
-seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
-conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
+Nenhum site consultado.
 
 ## 2. Uso de IA — **somente como consulta**
 
@@ -38,9 +32,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
-
-*(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
+| 1 | https://claude.ai/share/31b06eb8-1e70-4221-9dc6-1657622d5a70 | Claude (Anthropic), usado como consulta. Leitura e explicação das regras da prova (`docs/REGRAS.md`, `FONTES.md`) e da localização dos artefatos; `constitution.md`: revisão de redação dos princípios 1 a 3; `plan.md`: revisão técnica (persistência, tratamento de erros 422, ordem do cálculo, regras de arredondamento); `spec.md`: revisão dos UC1 a UC8, identificação de inconsistências, inclusão da tabela de ciclo de vida do bilhete e reestruturação dos erros em tabelas. |
 
 ## 3. Compromisso
 
@@ -48,7 +40,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**Nome / RA:** Igor Costa / 23215764-2
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
